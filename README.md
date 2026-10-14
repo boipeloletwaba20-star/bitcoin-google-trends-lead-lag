@@ -1,6 +1,6 @@
 Lead–Lag Relationships Between Bitcoin and Internet Attention
 Does Google search interest move ahead of Bitcoin's price, and can it help predict returns?
-EDAB 6808 Assignment 1 · B.Com Business Analytics (Hons), University of the Free State · Pair project, 2026
+EDAB 6808 Assignment 1 · B.Com Business Analytics (Hons), University of the Free State · Group project, 2026
 ---
 Problem
 This project tests whether public attention to Bitcoin, measured with Google Trends, leads or lags Bitcoin's weekly returns and trading volume, and whether that attention is a useful predictor of them.
