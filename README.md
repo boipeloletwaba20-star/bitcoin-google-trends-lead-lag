@@ -63,16 +63,7 @@ Repository structure
 bitcoin-google-trends-lead-lag/
 ├── README.md
 ├── bitcoin_google_trends_lead_lag.ipynb
-└── images/
-    ├── normalised_series.png
-    ├── cross_correlation.png
-    ├── rf_actual_vs_predicted.png
-    └── garch_volatility.png
-```
 
-Report and presentation
-Full report (view-only)
-Presentation slides (view-only)
-Portfolio page
+```
 
 
