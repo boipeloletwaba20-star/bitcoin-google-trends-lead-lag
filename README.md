@@ -2,7 +2,7 @@
 
 **Does Google search interest move ahead of Bitcoin's price, and can it help predict returns?**
 
-*EDAB 6808 Assignment 1 · B.Com Business Analytics (Hons), University of the Free State · Pair project, 2026*
+
 
 ---
 
@@ -80,7 +80,7 @@ Python · Google Colab · `yfinance` · `pytrends` · `pandas` · `numpy` · `st
 ![Cross-correlation of Google Trends keywords with Bitcoin weekly returns](images/cross_correlation.png)
 
 ## How to run
-1. Open the notebook in Google Colab: [Open in Colab](COLAB_LINK_HERE)
+1. Open the notebook in Google Colab: [Open in Colab]([COLAB_LINK_HERE):(https://colab.research.google.com/drive/1oiGeJnbj2zrPMKoG8BHNUk7DsN9tFHdZ?usp=sharing)
 2. **Runtime → Run all.** The first cell installs `yfinance`, `pytrends` and `arch` if they're missing.
 3. The notebook downloads the Bitcoin and Google Trends data itself. Google Trends sometimes rate-limits requests. If you get a `429` error, wait a minute and re-run the data-collection cell.
 
@@ -89,21 +89,3 @@ Python · Google Colab · `yfinance` · `pytrends` · `pandas` · `numpy` · `st
 bitcoin-google-trends-lead-lag/
 ├── README.md
 ├── bitcoin_google_trends_lead_lag.ipynb
-└── images/
-    ├── normalised_series.png
-    ├── cross_correlation.png
-    ├── rf_actual_vs_predicted.png
-    └── garch_volatility.png
-```
-
-## Report and presentation
-- [Full report](REPORT_LINK_HERE) (view-only)
-- [Presentation slides](SLIDES_LINK_HERE) (view-only)
-- [Portfolio page](EPORTFOLIO_LINK_HERE)
-
-## References
-- Barber, B. M., & Odean, T. (2008). All that glitters: The effect of attention and news on the buying behavior of individual and institutional investors. *The Review of Financial Studies, 21*(2), 785–818.
-- Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. *Journal of Econometrics, 31*(3), 307–327.
-- Cont, R. (2001). Empirical properties of asset returns: Stylized facts and statistical issues. *Quantitative Finance, 1*(2), 223–236.
-- Da, Z., Engelberg, J., & Gao, P. (2011). In search of attention. *Journal of Finance, 66*(5), 1461–1499.
-- Preis, T., Moat, H. S., & Stanley, H. E. (2013). Quantifying trading behavior in financial markets using Google Trends. *Scientific Reports, 3*, 1684.
