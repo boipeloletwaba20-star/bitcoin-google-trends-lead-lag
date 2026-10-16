@@ -88,4 +88,4 @@ Python · Google Colab · `yfinance` · `pytrends` · `pandas` · `numpy` · `st
 ```
 bitcoin-google-trends-lead-lag/
 ├── README.md
-├── bitcoin_google_trends_lead_lag.ipynb
+├── bitcoin_lead_lag.ipynb/py
